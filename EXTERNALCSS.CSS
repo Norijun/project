@@ -1,0 +1,21 @@
+p{
+font-family: cursive;
+font-size: large;
+color: black;
+background-color: white;
+}
+.center{
+float: right;
+margin: 50px;
+width: 50%;
+border: 5px  solid blue;
+padding: 10px;
+
+}
+div{
+height: 200px;
+width: 50%;
+border: 15px solid black;
+padding: 10px;
+margin: 5px;
+}
